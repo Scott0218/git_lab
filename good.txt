@@ -5,3 +5,5 @@ AAAAAXXXCCC
 YYY
 hello,world
 branch1 test
+
+test merge 
