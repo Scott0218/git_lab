@@ -5,6 +5,8 @@ branch1 add text
 test rebase
 fetch edit
 
+branch_commit 1
+
 20221103 commit 1
 
 模擬添加體驗碼
